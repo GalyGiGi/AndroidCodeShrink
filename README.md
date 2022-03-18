@@ -35,3 +35,7 @@ A bytecode plugin to shrink apk size.
 
 测试用于测试插件功能，在此模块中引用delete-method-plugin，从而删除指定代码。
 
+## 鸣谢
+
+- [ByteX](https://github.com/bytedance/ByteX) 
+
